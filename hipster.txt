@@ -1,3 +1,6 @@
 Software undergoes beta testing shortly before it’s released. Beta is Latin for “still doesn’t work”. (Anonymous) Most software today is very much like an Egyptian 
 
 /auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin/auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin/auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin
+
+
+/auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin/auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin/auto/ins-bld-tools/branches/kerry/nexus/REL_10_2_0_125/build/images/final/nxos64.10.2.0.125.bin
